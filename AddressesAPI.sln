@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressesAPI", "AddressesAPI\AddressesAPI.csproj", "{A8FCF605-D71D-4E3A-A450-D388B801E38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FCF605-D71D-4E3A-A450-D388B801E38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FCF605-D71D-4E3A-A450-D388B801E38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FCF605-D71D-4E3A-A450-D388B801E38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FCF605-D71D-4E3A-A450-D388B801E38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8B2F52-EB1B-403F-B4CE-D882843C692E}
+	EndGlobalSection
+EndGlobal
